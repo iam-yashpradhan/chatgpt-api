@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-6rklspAXipyUJRCGEg1IL0aIzI9aa",
+    "object": "chat.completion",
+    "created": 1678269192,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 15,
+        "completion_tokens": 114,
+        "total_tokens": 129
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\n\nAs an AI language model, I do not have access to your website or blog's data. However, the virality of a blog post depends on various factors such as the content quality, marketing strategies, target audience, social media engagement, and timing. It is essential to create high-quality content that resonates with the readers and offer value to them. Additionally, promoting your blogs through social media, email marketing, and influencers can help increase visibility and reach a broader audience. Timing and relevance of the content also play an important role in making blogs go viral."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
